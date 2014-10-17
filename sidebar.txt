@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pii:home|Door43 (pii)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pii|d43-pii repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pii/archive/master.zip|d43-pii.zip]]
+
+**Recent Changes**
+{{changes>ns = pii}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pii|Ethnologue data]]
+
